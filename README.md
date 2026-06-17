@@ -1,7 +1,5 @@
 # Retail Sales Performance Analytics Dashboard
-## Dashboard Preview
 
-![Dashboard](dashboard.png)
 
 ## Project Overview
 
@@ -40,3 +38,7 @@ This project presents an interactive Power BI dashboard designed to analyze reta
 - Project 1.pbix
 - Ecommerce_PowerBI_Dataset_8000Rows.csv
 - Dashboard Screenshot
+- ## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
